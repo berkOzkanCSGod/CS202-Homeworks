@@ -1,4 +1,0 @@
-/Applications/Code/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/berkozkan/Library/Mobile Documents/com~apple~CloudDocs/C++_projects/CS202/2023/CS202/testHW/HW1/sortingT"
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/berkozkan/Library/Mobile Documents/com~apple~CloudDocs/C++_projects/CS202/2023/CS202/testHW/HW1/sortingT/cmake-build-debug
