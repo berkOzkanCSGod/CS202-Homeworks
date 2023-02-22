@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/main.cpp
+sorting.h
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/sorting.h
+chrono
+-
+
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/sorting.cpp
+sorting.h
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/sorting.h
+
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/sorting.h
+iostream
+-
+string
+-
+

@@ -1,0 +1,3 @@
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/berkozkan/Desktop/C++/CS202-Homeworks/sortingT/cmake-build-debug/CMakeFiles/sortingT.dir
